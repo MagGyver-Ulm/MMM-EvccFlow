@@ -1,0 +1,23 @@
+{
+  "SOLAR": "Solar",
+  "GRID": "Netz",
+  "HOME": "Haus",
+  "BATTERY": "Batterie",
+  "VEHICLE": "Auto",
+  "NO_DATA": "Keine Daten",
+  "IDLE": "Ruhe",
+  "IMPORT": "Bezug",
+  "EXPORT": "Einspeisung",
+  "DISCHARGING": "Entladen",
+  "CHARGING": "Laden",
+  "MODE": "Modus",
+  "MODE_OFF": "Aus",
+  "MODE_NOW": "Sofort",
+  "MODE_MINPV": "Min + PV",
+  "MODE_PV": "PV",
+  "BATTERY_SOC": "Batteriefüllstand",
+  "MISSING_URL": "Bitte evccUrl in der Modulkonfiguration setzen.",
+  "INVALID_URL": "evccUrl prüfen: HTTP(S)-Basisadresse ohne Zugangsdaten, Abfrage oder Fragment verwenden.",
+  "UNAVAILABLE": "evcc nicht erreichbar",
+  "WAITING": "Warte auf evcc …"
+}

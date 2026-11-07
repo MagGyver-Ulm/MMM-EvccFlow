@@ -1,0 +1,38 @@
+{
+  "name": "MMM-EvccFlow",
+  "version": "1.0.0",
+  "description": "Live evcc energy flows for MagicMirror²: solar, grid, home, battery and electric vehicles.",
+  "license": "MIT",
+  "author": "MagGyver-Ulm",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MagGyver-Ulm/MMM-EvccFlow.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MagGyver-Ulm/MMM-EvccFlow/issues"
+  },
+  "homepage": "https://github.com/MagGyver-Ulm/MMM-EvccFlow#readme",
+  "keywords": [
+    "MagicMirror",
+    "MagicMirror²",
+    "evcc",
+    "energy",
+    "solar",
+    "pv",
+    "battery",
+    "wallbox",
+    "ev",
+    "smart-home"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test",
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "eslint": "^9.39.0",
+    "globals": "^16.5.0"
+  }
+}
